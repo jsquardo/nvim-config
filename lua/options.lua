@@ -62,4 +62,7 @@ vim.opt.cursorline = true
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.opt.scrolloff = 10
 
+-- Netrw remove header
+vim.g.netrw_banner = 0
+
 -- vim: ts=2 sts=2 sw=2 et
