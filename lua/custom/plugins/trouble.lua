@@ -3,6 +3,7 @@ return {
   opts = {
     indent_guides = false,
   },
+  cmd = 'Trouble',
   keys = {
     {
       '<leader>xx',
