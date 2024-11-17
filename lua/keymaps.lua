@@ -2,7 +2,7 @@
 --  See `:help vim.keymap.set()`
 
 -- Open and close NetRW
-vim.keymap.set('n', '<leader>pv', vim.cmd.Ex)
+vim.keymap.set('n', '<leader>ov', vim.cmd.Ex)
 -- Clear highlights on search when pressing <Esc> in normal mode
 --  See `:help hlsearch`
 vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
